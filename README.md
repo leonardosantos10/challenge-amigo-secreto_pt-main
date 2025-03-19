@@ -18,4 +18,4 @@ O **Amigo Secreto** é uma aplicação web simples que permite realizar sorteios
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/leonardosantos10/challenge-amigo-secreto_pt-main.git
